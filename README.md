@@ -31,26 +31,6 @@ powerful operations like move, copy, rename, search, and share.
 
 ---
 
-## Author
-
-**Hi, I'm Saurabh Diwate 👋**
-
-**Full-Stack Troubleshooting, Integration & Deployment Engineer**
-
-I help founders, agencies, and growing businesses fix difficult website
-problems, complete unfinished features, integrate third-party services, and
-deploy applications reliably.
-
-My work focuses on practical outcomes: finding the root cause, implementing a
-maintainable solution, and making sure the application works correctly in
-production.
-
-**r2-drive** is one of my projects — designed, built, and deployed end-to-end:
-from authentication and the upload engine to Docker packaging and production
-deployment guides.
-
----
-
 ## Why r2-drive?
 
 Cloudflare R2 offers **unbeatable value** — zero egress fees, far cheaper
