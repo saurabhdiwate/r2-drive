@@ -428,5 +428,4 @@ npm run gen:secret     # generate SESSION_SECRET
 
 MIT License.
 
-**r2-drive** is authored and maintained by **Saurabh Diwate** and ships with
-its own Docker setup, docs, and test infrastructure.
+MIT — see LICENSE for details.
