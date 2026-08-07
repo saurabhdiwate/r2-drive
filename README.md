@@ -2,8 +2,6 @@
 
 ### A self-hosted, single-admin file manager for Cloudflare R2 storage
 
-_Maintained & extended by **Saurabh Diwate** — Full-Stack Troubleshooting, Integration & Deployment Engineer_
-
 **r2-drive** turns your personal Cloudflare R2 buckets into a clean, Google
 Drive–style web app you run on your own server — no third-party SaaS, no vendor
 lock-in, no recurring fees. Sign in, browse buckets, drag-and-drop files (with
