@@ -16,5 +16,7 @@ docker-compose.yml
 docs
 screenshot
 coverage
+test-results
+playwright-report
 *.tsbuildinfo
 next-env.d.ts
